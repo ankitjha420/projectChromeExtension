@@ -1,16 +1,5 @@
-# title(){return this.options.title||this.options.name}
-
-## Supporting Scrimba
-
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
-
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
+Chrome Extension URL logger
+Written using JavaScript, HTML5 and CSS, this extension can capture the active tab's URL on your Chrome browser using Chrome's API.
+It can be used to save links, make bookmarks etc.
+Users can also manually feed url link and save it. The "Delete All" button clears all the saved links.
+The links are stored in localStorage object of chrome, so they dont disappear if you close the extension.
